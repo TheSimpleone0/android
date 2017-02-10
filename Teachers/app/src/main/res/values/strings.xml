@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teachers</string>
+    <string name="ref">Acceuil</string>
+    <string name="ref1">Connexion</string>
+    <string name="nmbr_copines_actuelles">Vous avez 3 copines </string>
+    <string name="perdu"> J\'ai perdu une copine </string>
+    <string name="acquise"> Nouvelle Copine </string>
+    <string name="zero">  Réintialiser</string>
+    <string name="girls"> Girls Friends</string>
+</resources>
